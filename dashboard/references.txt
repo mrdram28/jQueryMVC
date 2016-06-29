@@ -1,0 +1,13 @@
+http://stackoverflow.com/questions/3121838/reusable-js-ajax-pattern-jquery
+
+http://codereview.stackexchange.com/questions/35316/javascript-module-pattern-with-ajax
+
+https://css-tricks.com/how-do-you-structure-javascript-the-module-pattern-edition/
+
+http://jsfiddle.net/mjaric/sewm6/
+
+https://github.com/hikalkan/jtable
+
+
+http://verekia.com/requirejs/build-simple-client-side-mvc-app-require-js/
+http://verekia.com/requirejs/build-simple-client-side-mvc-app-require-js/

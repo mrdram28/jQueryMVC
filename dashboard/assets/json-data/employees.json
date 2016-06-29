@@ -1,0 +1,50 @@
+{
+  "employees": [
+	{ 	
+    "firstName" : "Mike",
+		"lastName" : "Chepesky",
+		"employeeNumber" : 47901926
+	
+	},
+	{
+		"firstName" : "Westlee",
+		"lastName" : "Barichak",
+		"employeeNumber" : 47901927
+	},
+	{ 	
+        "firstName" : "Jamie",
+		"lastName" : "Lambier",
+		"employeeNumber" : 51239657
+	},
+	{ 	
+        "firstName" : "Denise",
+		"lastName" : "Marshall",
+		"employeeNumber" : 41239520
+	},
+	{ 	
+        "firstName" : "Matthew",
+		"lastName" : "Taylor",
+		"employeeNumber" : 41239525
+	},
+	{ 	
+        "firstName" : "Mark",
+		"lastName" : "Tiegs",
+		"employeeNumber" : 65321951
+	},
+	{ 	
+        "firstName" : "Karla",
+		"lastName" : "Tetzel",
+		"employeeNumber" : 65321952
+	},
+	{ 	
+        "firstName" : "Ian",
+		"lastName" : "Dundas",
+		"employeeNumber" : 29472012
+	},
+	{ 	
+        "firstName" : "Marco",
+		"lastName" : "Cacciacarro",
+		"employeeNumber" : 56446691
+	}
+]
+}
